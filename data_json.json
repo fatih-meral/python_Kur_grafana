@@ -1,0 +1,16 @@
+{
+    "item": [
+        {
+            "urun": "cd",
+            "fiyat": "15"
+        },
+        {
+            "urun": "laptop",
+            "fiyat": "850"
+        },
+        {
+            "urun": "monitör",
+            "fiyat": "371"
+        }
+    ]
+}
